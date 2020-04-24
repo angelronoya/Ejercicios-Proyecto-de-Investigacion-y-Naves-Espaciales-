@@ -20,6 +20,7 @@ https://github.com/angelronoya/Ejercicios-Proyecto-de-Investigacion-y-Naves-Espa
 https://github.com/angelronoya/Ejercicios-Proyecto-de-Investigacion-y-Naves-Espaciales-/blob/master/d.PNG
 
 A continuación, saín de mysql (co comanod "exit" ) para volver a introducirme de novo e crear unha nova base de datos. Esta vez sería para a correspondente ao exercicio das Naves Espaciais. 
+
 https://github.com/angelronoya/Ejercicios-Proyecto-de-Investigacion-y-Naves-Espaciales-/blob/master/e.PNG
 
 O código deste exercicio é o seguinte:
