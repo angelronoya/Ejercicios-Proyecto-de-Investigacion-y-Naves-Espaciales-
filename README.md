@@ -19,7 +19,7 @@ https://gist.github.com/angelronoya/11020d09169c4304477d5730457b4dda
 https://github.com/angelronoya/Ejercicios-Proyecto-de-Investigacion-y-Naves-Espaciales-/blob/master/c.PNG
 https://github.com/angelronoya/Ejercicios-Proyecto-de-Investigacion-y-Naves-Espaciales-/blob/master/d.PNG
 
-A continuación, saín de mysql (co comanod "exit" ) para volver a introducirme de novo e crear unha nova base de datos. Esta vez sería para a correspondente ao exercicio das Naves Espaciais. 
+A continuación, saín de mysql (co comando "exit" ) para volver a introducirme de novo e crear unha nova base de datos. Esta vez sería para a correspondente ao exercicio das Naves Espaciais. 
 
 https://github.com/angelronoya/Ejercicios-Proyecto-de-Investigacion-y-Naves-Espaciales-/blob/master/e.PNG
 
@@ -31,4 +31,6 @@ E con él seguin o mesmo procedemento, pegueino unha vez dentro da base de datos
 
 https://github.com/angelronoya/Ejercicios-Proyecto-de-Investigacion-y-Naves-Espaciales-/blob/master/f.PNG
 https://github.com/angelronoya/Ejercicios-Proyecto-de-Investigacion-y-Naves-Espaciales-/blob/master/g.PNG
+
+
 
