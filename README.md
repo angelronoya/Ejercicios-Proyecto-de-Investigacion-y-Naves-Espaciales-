@@ -24,6 +24,7 @@ A continuación, saín de mysql (co comanod "exit" ) para volver a introducirme 
 https://github.com/angelronoya/Ejercicios-Proyecto-de-Investigacion-y-Naves-Espaciales-/blob/master/e.PNG
 
 O código deste exercicio é o seguinte:
+
 https://gist.github.com/angelronoya/97bc6338dbdd74a501f0a089b9879b2c
 
 E con él seguin o mesmo procedemento, pegueino unha vez dentro da base de datos das Naves Espaciais.
