@@ -1,7 +1,7 @@
 # Proyecto de Investigacion e Naves Espaciales
 Para crear estas bases de datos, primeiro temos que iniciarnos en mysql dende a ventana de comandos, co comando "-u usuario -p". Introducimos a contrasinal e xa estaremos listos para a creación da base de datos.
 
-https://github.com/angelronoya/Ejercicios-Proyecto-de-Investigacion-y-Naves-Espaciales-/blob/master/a.PNG
+https://raw.githubusercontent.com/angelronoya/Ejercicios-Proyecto-de-Investigacion-y-Naves-Espaciales-/master/asset/a.PNG
 
 Unha vez listos, escribimos "CREATE SCHEMA nome-da-base;". Esta será a estructura para a creación da base de datos. 
 
