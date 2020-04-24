@@ -37,3 +37,6 @@ https://github.com/angelronoya/Ejercicios-Proyecto-de-Investigacion-y-Naves-Espa
 
 O primeiro comando é "show databases". Este comando mostra a lista da base de datos do noso servidor.
 
+https://github.com/angelronoya/Ejercicios-Proyecto-de-Investigacion-y-Naves-Espaciales-/blob/master/f.PNG
+
+
