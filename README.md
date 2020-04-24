@@ -30,7 +30,10 @@ https://gist.github.com/angelronoya/97bc6338dbdd74a501f0a089b9879b2c
 E con él seguin o mesmo procedemento, pegueino unha vez dentro da base de datos das Naves Espaciais.
 
 https://github.com/angelronoya/Ejercicios-Proyecto-de-Investigacion-y-Naves-Espaciales-/blob/master/f.PNG
+
 https://github.com/angelronoya/Ejercicios-Proyecto-de-Investigacion-y-Naves-Espaciales-/blob/master/g.PNG
 
+## COMANDOS DE MYSQL PARA MOSTRAR ESTRUCTURA Y DATOS DE UNA BASE DE DATOS
 
+O primeiro comando é "show databases". Este comando mostra a lista da base de datos do noso servidor.
 
