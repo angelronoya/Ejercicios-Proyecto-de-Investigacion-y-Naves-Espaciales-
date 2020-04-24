@@ -1,7 +1,7 @@
 # Proyecto de Investigacion e Naves Espaciales
 Para crear estas bases de datos, primeiro temos que iniciarnos en mysql dende a ventana de comandos, co comando "-u usuario -p". Introducimos a contrasinal e xa estaremos listos para a creación da base de datos.
 
-https://raw.githubusercontent.com/angelronoya/Ejercicios-Proyecto-de-Investigacion-y-Naves-Espaciales-/blob/master/a.PNG
+https://github.com/angelronoya/Ejercicios-Proyecto-de-Investigacion-y-Naves-Espaciales-/blob/master/a.PNG
 
 Unha vez listos, escribimos "CREATE SCHEMA nome-da-base;". Esta será a estructura para a creación da base de datos. 
 
@@ -37,6 +37,19 @@ https://github.com/angelronoya/Ejercicios-Proyecto-de-Investigacion-y-Naves-Espa
 
 O primeiro comando é "show databases". Este comando mostra a lista da base de datos do noso servidor.
 
-https://github.com/angelronoya/Ejercicios-Proyecto-de-Investigacion-y-Naves-Espaciales-/blob/master/f.PNG
+https://github.com/angelronoya/Ejercicios-Proyecto-de-Investigacion-y-Naves-Espaciales-/blob/master/h.PNG
+
+Para poder entrar nunha base, introducimos o comando "use nome-da-base". Unha vez dentro temos a opción de ver as taboas da base de datos. Esto lograse co comando "show tables".
+
+https://github.com/angelronoya/Ejercicios-Proyecto-de-Investigacion-y-Naves-Espaciales-/blob/master/i.PNG
+
+Ademais, tamén podemos ver o contido de cada táboa. O comando "describe nome-da-taboa" permítenolo. 
+
+https://github.com/angelronoya/Ejercicios-Proyecto-de-Investigacion-y-Naves-Espaciales-/blob/master/j.PNG
+
+Para saír dunha base de datos temos o comando "quit", ainda que con exit ten o mismo efecto.
+
+https://github.com/angelronoya/Ejercicios-Proyecto-de-Investigacion-y-Naves-Espaciales-/blob/master/k.PNG
+
 
 
